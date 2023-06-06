@@ -18,6 +18,7 @@
     "@types/gravatar": "^1.8.3",
     "@types/jsonwebtoken": "^9.0.2",
     "nodemon": "^2.0.22",
+    "source-map-loader": "^4.0.1",
     "ts-loader": "^9.4.2",
     "typescript": "^5.0.4",
     "webpack": "^5.80.0",
